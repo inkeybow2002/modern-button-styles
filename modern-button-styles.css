@@ -58,3 +58,9 @@ button {
     box-shadow: 0 7px 20px rgba(0, 0, 0, 0.3);
     background-color: #0056b3; /* Adjusted from darken function for compatibility */
 }
+
+/* Button styles overview:
+   - .btn-flat: Basic flat button.
+   - .btn-outline: Outlined button with a border.
+   - .btn-3d: Button with a shadow for 3D effect.
+*/
