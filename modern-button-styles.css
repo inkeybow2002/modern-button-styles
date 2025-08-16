@@ -27,6 +27,7 @@ button {
     transition: background-color var(--transition-speed);
 }
 
+/* Flat button style */
 .btn-flat {
     background-color: var(--primary-color);
 }
@@ -35,6 +36,7 @@ button {
     background-color: #0056b3; /* Adjusted from darken function for compatibility */
 }
 
+/* Outline button style */
 .btn-outline {
     background-color: transparent;
     border: 2px solid var(--primary-color);
@@ -46,6 +48,7 @@ button {
     color: white;
 }
 
+/* 3D button style */
 .btn-3d {
     background-color: var(--primary-color);
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
